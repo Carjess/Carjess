@@ -1,11 +1,11 @@
 # Jesús Balza 
 ### Computer Engineer 
 
-I am a **Computer Engineer** driven by innovation and efficiency. Beyond the code, **I bring a holistic perspective to software development**. My strength lies in my ability to understand needs and transform them into robust and scalable digital solutions.
+I am a **Computer Engineer** motivated by innovation and continuous learning. Beyond the code, **I focus on understanding problems** to create functional and efficient digital solutions.
 
-As a **Full Stack Developer**, I possess the technical versatility to move seamlessly between server and client, leveraging a modern stack (**Node.js, Laravel, React, Vue**) to build solid architectures.
+As a **Developer**, I am building practical skills in both server and client-side development, working with a modern stack (**Node.js, Laravel, React, Vue**) to integrate dynamic applications.
 
-However, my true value lies in my curiosity and adaptability. I am not bound to a single environment; I extend my solutions to mobile with **React Native** and desktop with **Tkinter**, always prioritizing user experience and product quality.
+My value lies in my curiosity and adaptability. I enjoy exploring different environments, gaining basic knowledge in mobile development with **React Native** and desktop systems with **Tkinter**, always aiming for good user experience and code quality.
 
 ---
 
