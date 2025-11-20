@@ -1,5 +1,5 @@
 # Jesús Balza 
-### Computer Engineer | 
+### Computer Engineer 
 
 I am a **Computer Engineer** driven by innovation and efficiency. Beyond the code, **I bring a holistic perspective to software development**. My strength lies in my ability to understand needs and transform them into robust and scalable digital solutions.
 
