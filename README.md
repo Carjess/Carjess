@@ -1,11 +1,11 @@
-# Hola, soy Jesús Balza 👋
-### Ingeniero Informático | Solucionador de Problemas
+# Jesús Balza 
+### Computer Engineer | 
 
-Soy un **Ingeniero Informático** impulsado por la innovación y la eficiencia. Más allá del código, me defino como un **solucionador de problemas** con una visión integral del desarrollo de software. Mi fortaleza radica en mi capacidad para entender una necesidad y transformarla en una solución digital robusta y escalable.
+I am a **Computer Engineer** driven by innovation and efficiency. Beyond the code, **I bring a holistic perspective to software development**. My strength lies in my ability to understand needs and transform them into robust and scalable digital solutions.
 
-Como desarrollador **Full Stack**, tengo la versatilidad técnica para moverme con fluidez entre el servidor y el cliente, utilizando un stack moderno (**Node.js, Laravel, React, Vue**) para construir arquitecturas sólidas.
+As a **Full Stack Developer**, I possess the technical versatility to move seamlessly between server and client, leveraging a modern stack (**Node.js, Laravel, React, Vue**) to build solid architectures.
 
-Sin embargo, mi verdadero valor está en mi curiosidad y adaptabilidad: no me limito a un solo entorno, llevando mis soluciones al mundo móvil con **React Native** o al escritorio con **Tkinter**, siempre priorizando la experiencia del usuario y la calidad del producto final.
+However, my true value lies in my curiosity and adaptability. I am not bound to a single environment; I extend my solutions to mobile with **React Native** and desktop with **Tkinter**, always prioritizing user experience and product quality.
 
 ---
 
